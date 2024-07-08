@@ -14,3 +14,7 @@ This repository contains both the frontend and backend applications within a mon
 
 - **Category and Tagging System**
   - Organize assets into categories and use tags for easy search and retrieval.
+
+- **User and Role Management:**
+  - Define user roles and permissions to ensure only authorized personnel can access or modify asset information.
+  - Assign assets to specific employees or departments and track usage history.
