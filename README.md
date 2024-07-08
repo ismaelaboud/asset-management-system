@@ -10,7 +10,7 @@ This repository contains both the frontend and backend applications within a mon
 - **Asset Registration and Cataloging:**
 
   - Unique Asset Identification: Assign unique IDs to each asset for easy tracking and identification.
-  - Comprehensive Asset Details: Record detailed information including asset type, description, serial number, and any other relevant information.
+  - Comprehensive Asset Details: Record detailed information including asset type, description, and serial number.
 
 - **Category and Tagging System**
   - Organize assets into categories and use tags for easy search and retrieval.
